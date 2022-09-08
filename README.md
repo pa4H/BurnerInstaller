@@ -1,6 +1,6 @@
 # MSI AfterBurner Auto Installer
 
-Install the program and config
+Automatically install the program and customized config.
 
 ![alt text](https://github.com/pa4H/BurnerInstaller/blob/main/Proga.png)
 
